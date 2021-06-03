@@ -1,3 +1,8 @@
+/*
+*  UCF COP 3330 Summer 2021 Assignment 1 Solutions
+*  Copyright 2021 Charlene Creighton
+ */
+
 package Exercise_6;
 
 import java.util.Calendar;
