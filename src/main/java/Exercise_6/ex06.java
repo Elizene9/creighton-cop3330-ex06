@@ -2,7 +2,6 @@ package Exercise_6;
 
 import java.util.Calendar;
 import java.util.Scanner;
-import java.util.Date;
 
 /*
 Create a program that determines how many years you have left until retirement and the year you can retire.
@@ -23,7 +22,6 @@ public class ex06 {
 
     public static void main(String[] args) {
 
-        Date cal = new Date();
         int year = Calendar.getInstance().get(Calendar.YEAR);
 
         Scanner input = new Scanner(System.in);
